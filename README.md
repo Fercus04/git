@@ -1,0 +1,1 @@
+# memory de pratica 1 git
